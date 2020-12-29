@@ -1,0 +1,2 @@
+# tranman
+Simple expense manager.
